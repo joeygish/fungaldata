@@ -1,5 +1,5 @@
 # fungaldata
-Using datasets to predict which mushrooms to pick and when.
+Using data to predict which mushrooms to pick and when and assess quality of citizen science observations.
 
 I will be initially pulling data from iNaturalist to create models for the PNW region which will predict the optimum time to go mushroom picking. Undoubtedly, analysis will reveal what we already know (i.e. go pick mushrooms when it rains in the fall). However, it will be interesting to judge the quality of the data by seeing how well it predicts seasons as well as to pick up on surprising trends relating to seasonal weather etc.
 
